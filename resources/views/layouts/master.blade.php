@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="MediHub - Medical & Health Template">
+    <meta name="description" content="ToothBrush">
     <title>@yield('title', config('app.name'))</title>
     @include('layouts.partials.header')
     @yield('header')
